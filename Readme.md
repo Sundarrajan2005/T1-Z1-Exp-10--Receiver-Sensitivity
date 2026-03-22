@@ -1,13 +1,17 @@
 
+
+## NAME: SUNDARRAJAN K
+## REG NO: 212223060279
+
 # Receiver-Sensitivity
 # Optical Receiver Sensitivity Analysis
 
-## AIM
+## AIM:
 Determine the sensitivity of a PIN photodiode-based optical receiver by calculating the minimum received power necessary to achieve a given Q factor. Compare simulation results with those obtained analytically.
 
 ---
 
-## Theory
+## Theory:
 If only thermal noise is considered, the sensitivity of a PIN photodiode-based receiver is:
 
 
@@ -53,7 +57,8 @@ Power meters are placed:
 
 ---
 
-## Simulation
+## Simulation:
+
 Steps:
 1. Adjust output power to **0 dBm**.  
 2. Set attenuator to **20 dB**.  
@@ -62,13 +67,29 @@ Steps:
 
 ---
 
-## Report
+## Report:
+
 Your report should include:
 - Pre-lab calculations (attach handwritten work if applicable).  
 - Screenshots or displays of simulation results:  
   - Power readings  
   - BER analyzer output  
   - Eye diagram  
-- Discussion of differences between analytical and simulation results.  
+- Discussion of differences between analytical and simulation results.
+
+## Tabulation:
+
+<img width="1679" height="1816" alt="image" src="https://github.com/user-attachments/assets/7b71a54d-3edf-48ac-9f77-7ea15a99ca3a" />
+
+  
+Output:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42b61ecd-0bc6-41e9-ac5f-bc93f6ea7d02" />
+ 
 
 ---
+
+## Result:
+
+Thus the reciever sensitivity is obtained and calculated
+
